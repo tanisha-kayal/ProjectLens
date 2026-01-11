@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your MVP in AI Studio: https://ai.studio/apps/drive/1kmKspJcquL6CAnoCS1WD9sA-oJPDC-Bt
+
 Demo Video Link: https://youtu.be/dg83zWxFYL0?si=KSi7Fripx2l74kjZ
 
 ## Run Locally
